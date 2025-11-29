@@ -1,1 +1,1 @@
-# Учебный мини-проект "Редактор заметок" на React
+# Study mini project - notes editor built with React
